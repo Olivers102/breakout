@@ -1,4 +1,4 @@
-# Python Breakout Game
+# Breakout Game
 
 A classic Breakout game implementation using Python and Pygame.
 
